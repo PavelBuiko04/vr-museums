@@ -4,7 +4,8 @@
 
 ## Website section
 - **Main** - Tells us about the company and its products
-- **Shop** - Redirects to the exhibition side
+- **Exhibition** - Redirects to the exhibition side
+- **Shop** - Helps people buy souvenirs in museums
 
 ## The technologies used
 - **HTML5 & CSS3** — to create the structure and design of the pages.
