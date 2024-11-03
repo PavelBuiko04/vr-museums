@@ -1,5 +1,3 @@
-# vr-museums
-
 # VRMuseums
 
 **VRMuseums** — A website that helps people learn more about the art of different countries
