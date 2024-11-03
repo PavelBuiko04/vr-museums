@@ -16,4 +16,4 @@
 
 
 ## Web site URL:
-- Website([https://pavelbuiko04.github.io/sauerkraut.com/index.html](https://pavelbuiko04.github.io/vr-museums/index.html))
+- [Website](https://pavelbuiko04.github.io/vr-museums/index.html)
